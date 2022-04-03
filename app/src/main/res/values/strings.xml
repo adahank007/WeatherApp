@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">WheatherApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sunday_21_april_2007_7_54pm">Sunday, 21 April 2007 | 7:54PM</string>
+    <string name="_21h_1m">21h 1m</string>
+    <string name="daytime">Daytime</string>
+    <string name="wind">Wind</string>
+    <string name="_17_km_h">17 km/h</string>
+    <string name="_4_59pm">4:59PM</string>
+    <string name="sunset">Sunset</string>
+    <string name="_1_665mbar">1,665mBar</string>
+    <string name="pressure">Pressure</string>
+    <string name="c">°С</string>
+</resources>
